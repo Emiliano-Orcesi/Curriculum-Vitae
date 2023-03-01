@@ -1,0 +1,29 @@
+Inicializar repositorio
+
+$git init
+$git config user.name "Nombre"
+$git config user.mail "mail@mail.com"
+
+Agregar archivos al repositorio
+
+git add .
+git commit -m "Este es nuestro primer commit"
+
+Subir proyecto a github
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/nombre_usuario/nombre_proyecto.git
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+

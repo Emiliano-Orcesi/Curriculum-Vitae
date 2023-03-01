@@ -8,6 +8,13 @@
         }
 
         /**Esto es un comentario en un documento CSS
+        .menu {
+            width: 25%;
+            float: left;
+        }
+        .main {
+            width: 75%;
+            float: left;
         */
         h1{
             font-family:  'Roboto', sans-serif;
