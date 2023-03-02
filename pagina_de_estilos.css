@@ -1,0 +1,19 @@
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+    padding-right: 5px;
+    color: darkblue;
+}
+ span{
+    font-size: 20px;
+ }
+
+div{
+width: 70%;
+height: 30px;
+margin: auto;
+background-color: lightblue;
+color: white;
+}
