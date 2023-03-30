@@ -1,9 +1,11 @@
 p{
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     margin-right: 5px;
     padding-right: 5px;
+    margin-left: 80px;
+    text-decoration: underline;
     color: darkblue;
 }
  span{
@@ -17,3 +19,15 @@ margin: auto;
 background-color: lightblue;
 color: white;
 }
+
+a{
+    font-size: 25px;
+    width: 70%;
+    height: 30px;
+    margin: auto;
+    background-color: red;
+    color: white;
+    margin: color blue;
+    margin-left: 100px;
+    }
+
