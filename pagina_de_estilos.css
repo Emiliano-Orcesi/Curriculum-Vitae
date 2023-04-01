@@ -6,7 +6,6 @@ p{
     padding-right: 5px;
     margin-left: 80px;
     text-decoration: underline;
-    color: darkblue;
 }
  span{
     font-size: 20px;
@@ -31,3 +30,7 @@ a{
     margin-left: 100px;
     }
 
+    body {
+        background-color: #ffdd90;
+        background-image: url("https://img.freepik.com/vector-premium/patron-transparente-vector-marino-ondas-azules-estilizadas-lineas-curvas-resumen-repetir-fondo-mosaico-diseno-abstracto-onda-agua_570429-38170.jpg?w=2000");
+      }
